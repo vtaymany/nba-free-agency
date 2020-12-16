@@ -6,17 +6,19 @@ class Employee {
     this.id = id
     this.email = email
   }
-
-  // method which prints all of the stats for a character
+  //Returns employee's name
   getName() {
     return this.name
   }
+  //Returns employee's id
   getId() {
     return this.id
   }
+  //Returns employee's email
   getEmail() {
     return this.email
   }
+  //Returns employee's role
   getRole() {
     return 'Employee'
   }
