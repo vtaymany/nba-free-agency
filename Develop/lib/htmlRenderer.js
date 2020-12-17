@@ -76,5 +76,5 @@ const replacePlaceholders = (template, placeholder, value) => {
   const pattern = new RegExp('{{ ' + placeholder + ' }}', 'gm')
   return template.replace(pattern, value)
 }
-console.log(renderMain)
+
 module.exports = render
