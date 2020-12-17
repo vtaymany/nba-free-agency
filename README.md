@@ -13,14 +13,14 @@
 npm install
 ```
 
-- From the '/Develop' folder run
+- From the '/Develop/' directory run
 ```
 node app
 ```
 
 -Input your team's information
 
--Open the newly generated 'team.html' file inside of the '/Develop/output' folder to view your team
+-Open the newly generated 'team.html' file inside of the '/Develop/output/' directory to view your team
 
 ## Installation
 
